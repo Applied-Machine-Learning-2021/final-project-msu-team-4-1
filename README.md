@@ -9,10 +9,10 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Jabari Austin](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Nyrel Malcolm](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
+- [Edwin Crawford](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
+- [Latrell Stovall](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
 
 ## Description
 <!--
